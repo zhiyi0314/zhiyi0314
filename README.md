@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Zhiyi (zhiyi0314)
 
-<!--
-**zhiyi0314/zhiyi0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android power user & module tinkerer.
 
-Here are some ideas to get you started:
+- 🔧 Interested in **LSPosed**, **KernelSU**, and **Android customization**
+- 📱 Focused on Android system internals, debugging, and Magisk modules
+- 🧩 Exploring hooks, ART runtime behavior, and system API interception
+- 💬 Languages: Java, Kotlin, C, and a bit of C++
+- 🧠 Always learning from open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current projects
+- Developing & testing LSPosed modules on Android 14 / 15
+- Exploring KernelSU integration and module safety
+- Experimenting with automation scripts for kernel building
+
+## 📫 Contact
+Feel free to open issues or reach out through GitHub discussions.
+
+> “The best debugging tool is curiosity.”
