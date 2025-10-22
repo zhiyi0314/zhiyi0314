@@ -1,89 +1,70 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/11f2e97d548bb6e8426fa9c4f494d7796b2a0a47f6b3ebf9a7c29d7b6c72a4b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48656c6c6f2d66756e2d6233643632623f7374796c653d666c6174266c6f676f3d68616e6472636f6465" width="200"/>
-</p>
+你好，我是 Zhiyi 👋
+（内容由ai生成）
+欢迎来到我的 GitHub 主页！
 
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent;">
-  👋 Hi, I'm zhiyi
-  </span>
-</h1>
-<p align="center">
-  <i>Full-stack Developer | Open Source Lover | Tech Explorer</i>
-</p>
+关于我
 
----
+我是一名对技术充满热情的开发者，专注于以下领域：
 
-## 🌈 Connect with me
-<p align="center">
-  <a href="https://github.com/zhiyi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+· 编译安卓内核 - 深入研究 Android 系统底层，定制和优化内核性能
+· 优化 Windows 系统 - 专注于 Windows 系统的性能调优和个性化定制
 
----
+技术专长
 
-## 💻 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+Android 内核开发
 
----
+· Android 内核源码分析与编译
+· 内核模块开发与调试
+· 系统性能优化与调参
+· 硬件驱动适配与优化
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhiyi&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyi&layout=compact&theme=radical" />
-</p>
+Windows 系统优化
 
----
+· Windows 系统性能分析与调优
+· 注册表优化与系统定制
+· 启动项管理与服务优化
+· 系统资源监控与瓶颈排查
 
-## 🌟 Projects Showcase
-<p align="center">
-  <a href="https://github.com/zhiyi/project1">
-    <img src="https://img.shields.io/badge/Project1-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
-  <a href="https://github.com/zhiyi/project2">
-    <img src="https://img.shields.io/badge/Project2-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://github.com/zhiyi/project3">
-    <img src="https://img.shields.io/badge/Project3-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
+我的项目
 
----
+这里展示了我的一些技术项目和实验性作品，主要涉及：
 
-## 🎨 Fun & Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
-</p>
+· Android 内核定制版本
+· Windows 优化脚本和工具
+· 系统性能监控工具
+· 自动化部署和配置脚本
+
+技术栈
+
+系统层面
+
+· Android AOSP
+· Linux Kernel
+· Windows PowerShell/Batch
+· 系统调试工具
+
+开发语言
+
+· C/C++
+· Python
+· Shell 脚本
+· Batch 脚本
+
+联系我
+
+如果你对以下内容感兴趣，欢迎与我交流：
+
+· Android 内核开发经验分享
+· Windows 系统优化技巧
+· 系统底层技术讨论
+· 开源项目合作
+
+📫 可以通过 GitHub 的 Issues 或 Discussions 功能联系我
+
+开源理念
+
+我相信开源的力量，致力于在技术社区中分享知识和经验。所有的项目都遵循开放、透明的原则，欢迎反馈和建议！
 
 ---
 
-## 💡 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 📈 Visitors
-<p align="center">
-  <img src="https://profile-counter.glitch.me/zhiyi/count.svg" />
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <b>zhiyi</b>
-</p>
+感谢访问我的主页，期待与你在技术世界中相遇！
